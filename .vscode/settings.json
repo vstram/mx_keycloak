@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "deployment": true,
+        "userlib": true,
+        "widgets": true
+    }
+}
